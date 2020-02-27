@@ -21,3 +21,11 @@ Comparison between 1st and 2nd revealed a missing book title in the \toc2:
 \toc2 à§¨<missing>
 correction is
 \toc2 à§¨ à¦¸à¦®à§‚à¦¯à¦¼à§‡à¦²
+
+2/26/2020 usfm_rev3
+
+Global search-replace chevrons << >> < > with smart quotes
+Command: ../../usfmtools/chevronsToSmartQuotes.py *.usfm
+
+Side-effect: lines were terminated with ^M; now with just \n
+
