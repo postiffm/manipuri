@@ -10,7 +10,7 @@ ie	61
 c	1189
 s1	2240
 p	5198
-v	31103
+v	31102
 f	1107
 fr	1107
 fk	1075
@@ -19,10 +19,11 @@ f*	1107
 q1	23622
 m	71
 b	1729
-r	417
+r	415
 mi	123
 ms	5
 d	147
 qs	73
 qs*	73
 qa	22
+sr	2	<<== This marker is not in the BI approved list
