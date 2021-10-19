@@ -68,6 +68,6 @@ git mv 63_2_John.usfm		    Manipuri_642JN_MBU.SFM
 git mv 64_3_John.usfm		    Manipuri_653JN_MBU.SFM
 git mv 65_Jude.usfm		    Manipuri_66JUD_MBU.SFM
 git mv 66_Revelation.usfm 	    Manipuri_67REV_MBU.SFM
-git mv 95XXBMBUR.SFM Manipuri_95XXB_MBU.SFM
-git mv 96XXCMBUR.SFM Manipuri_96XXC_MBU.SFM
-git mv A9GLOMBUR.SFM Manipuri_A9GLO_MBU.SFM
+# Don't forget these!
+#Manipuri_95XXB_MBU.SFM
+#Manipuri_96XXC_MBU.SFM
