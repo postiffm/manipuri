@@ -1,0 +1,331 @@
+\id XXC - BI Model Complele Bible - English (Development) 
+\rem Chapter 1: Map Terms (Map Set for NT only)* 
+\rem Chapter 2: Map Terms (Map Set for full Bible)* 
+\rem - *Pick either Chapter 1 or Chapter 2 and delete the contents of the other. 
+\c 1 
+\rem Chapter 1: Map Terms (Map Set for NT only)* 
+\rem - *Pick either Chapter 1 or Chapter 2 and delete the contents of the other. 
+\rem Translate all the names according to the spelling found in the passages listed. 
+\rem Please do not change or remove the map item ID number (001, 002, 003, etc.). These do not need to be translated; they can be ignored. 
+\c 2 
+\rem Chapter 2: Map Terms (Full Bible Map Set)* 
+\rem - *Pick either Chapter 1 or Chapter 2 and delete the contents of the other. 
+\rem Translate all the names according to the spelling found in the passages listed. 
+\rem Please do not change or remove the map item ID number (001, 002, 003, etc.). These do not need to be translated; they can be ignored. 
+\m 
+\v 1 
+\rem OT TITLES 
+\tr \tc1 001 \tc2 ইপা ইপুশিংগী লৈবাক 
+\tr \tc1 002 \tc2 ইজিপ অমদি খোঙশানবা 
+\tr \tc1 003 \tc2 কেনান অমসুং শলাই তরানিথোই 
+\tr \tc1 004 \tc2 অপুনবা নিংথৌ লৈবাক 
+\tr \tc1 005 \tc2 কায়খ্রবা নিংথৌ লৈবাকশিং 
+\tr \tc1 006 \tc2 তাইবংপানগী সাম্রাজ্যশিং 
+\m 
+\v 2 
+\rem NT TITLES 
+\tr \tc1 007 \tc2 খৃষ্টগী হাকতক্তা পলেষ্টাইন 
+\tr \tc1 008 \tc2 পাখোন চৎপা পোলগী খোঙচৎশিং 
+\tr \tc1 009 \tc2 মিডল ঈষ্টতা ঙসি ওইরিবা ইস্রায়েলগী ফিভম 
+\m 
+\v 3 
+\rem OT LEGENDS 
+\tr \tc1 010 \tc2 অব্রাহামগী খোঙচৎ 
+\tr \tc1 011 \tc2 ইস্রায়েলনা খূৎ চনবা মফমশিং 
+\tr \tc1 012 \tc2 আশিরিয়াগী সাম্রাজ্য – খৃষ্ট পোক্ত্রিঙৈ ৮৫৯-৬২৭ 
+\tr \tc1 013 \tc2 বাবিলোনগী সাম্রাজ্য – খৃষ্ট পোক্ত্রিঙৈ ৬২৬-৫৩৯ 
+\tr \tc1 014 \tc2 কেনান অমসুং শলাই তরানিথোই 
+\tr \tc1 015 \tc2 চঙজফম সহরশিং 
+\tr \tc1 016 \tc2 সাম্রাজ্যগী খ্বাইদগী চাউবা ঙমখৈ 
+\tr \tc1 017 \tc2 কিলোমিটর 
+\tr \tc1 018 \tc2 অতৈ সহরশিং 
+\tr \tc1 019 \tc2 পারস্যগী সাম্রাজ্য – খৃষ্ট পোক্ত্রিঙৈ ৫৩৮-৩৩২ 
+\tr \tc1 020 \tc2 পলেষ্টী সহরশিং 
+\tr \tc1 021 \tc2 খোঙশানবগী লম্বী 
+\tr \tc1 283 \tc2 অকোয়বদা লৈবা লৈবাকশিং 
+\tr \tc1 022 \tc2 দেবিদনা লৌশিনিখবা ঙমখৈ 
+\tr \tc1 023 \tc2 সোলগী নিংথৌ লৈবাক্কী ঙমখৈ 
+\tr \tc1 024 \tc2 সোলোমোনগী ললোন-ইতিক্কি মখাদা লৈরম্বা ঙমখৈ 
+\tr \tc1 025 \tc2 পারস্যগী সাম্রাজ্যনা ইন্দস তুরেলগী তম্পাক য়ৌনা শন্দোকখি 
+\tr \tc1 026 \tc2 শলাইশিং খাইদোকপা 
+\m 
+\v 4 
+\rem NT LEGENDS 
+\tr \tc1 027 \tc2 কিলোমিটর 
+\tr \tc1 028 \tc2 পোলগী অহানবা মিশনারি খোঙচৎ 
+\tr \tc1 029 \tc2 পোলগী রোম য়ৌবা খোঙচৎ 
+\tr \tc1 030 \tc2 পোলগী অনীশুবা মিশনারি খোঙচৎ 
+\tr \tc1 031 \tc2 পোলগী অহুমশুবা মিশনারি খোঙচৎ 
+\m 
+\v 5 
+\rem OT TRIBES OF ISRAEL 
+\tr \tc1 032 \tc2 অশের\tc3 \xt যোশূ 21:6 \xt* 
+\tr \tc1 033 \tc2 বেনজামিন\tc3 \xt ৱায়েন 1:21 \xt* 
+\tr \tc1 034 \tc2 দান\tc3 \xt যোশূ 21:5 \xt* 
+\tr \tc1 035 \tc2 ইফ্রায়িম\tc3 \xt ৱায়েন 1:29 \xt* 
+\tr \tc1 036 \tc2 গাদ\tc3 \xt যোশূ 20:8 \xt* 
+\tr \tc1 037 \tc2 ইসাখার\tc3 \xt যোশূ 21:6 \xt* 
+\tr \tc1 038 \tc2 যিহূদা\tc3 \xt ৱায়েন 1:2 \xt* 
+\tr \tc1 039 \tc2 মনাসে\tc3 \xt ৱায়েন 1:27 \xt* 
+\tr \tc1 040 \tc2 নপ্তালী\tc3 \xt যোশূ 21:6 \xt* 
+\tr \tc1 041 \tc2 রূবেন\tc3 \xt যোশূ 20:8 \xt* 
+\tr \tc1 042 \tc2 সিমিয়োন\tc3 \xt ৱায়েন 1:3 \xt* 
+\tr \tc1 043 \tc2 জেবূলূন\tc3 \xt যোশূ 21:6 \xt* 
+\m 
+\v 6 
+\rem OT MOUNTAINS 
+\tr \tc1 044 \tc2 কামের্ল চীং\tc3 \xt ২নিং 2:25 \xt* 
+\tr \tc1 045 \tc2 গেরীজীম চীং\tc3 \xt ৱায়েন 9:7 \xt* 
+\tr \tc1 046 \tc2 হমোর্ন চীং\tc3 \xt যোশূ 12:1 \xt* 
+\tr \tc1 047 \tc2 নেবো চীং\tc3 \xt ২ৱা 34:1 \xt* 
+\tr \tc1 048 \tc2 সীনায় চীং\tc3 \xt খোঙ 19:11 \xt* 
+\tr \tc1 049 \tc2 তাবোর চীং \tc3 \xt ৱায়েন 4:6 \xt* 
+\m 
+\v 7 
+\rem NT ISLANDS 
+\tr \tc1 050 \tc2 ক্লাউদা\tc3 \xt পাখো 27:16 \xt* 
+\tr \tc1 051 \tc2 খীওস\tc3 \xt পাখো 20:15 \xt* 
+\tr \tc1 052 \tc2 কোস\tc3 \xt পাখো 21:1 \xt* 
+\tr \tc1 053 \tc2 ক্রীত\tc3 \xt পাখো 27:7 \xt* 
+\tr \tc1 054 \tc2 সাইপ্রস\tc3 \xt পাখো 4:36 \xt* 
+\tr \tc1 055 \tc2 মালতা\tc3 \xt পাখো 28:1 \xt* 
+\tr \tc1 056 \tc2 পাৎমোস\tc3 \xt ফোং 1:9 \xt* 
+\tr \tc1 057 \tc2 সিসিলি\tc3 
+\m 
+\v 8 
+\rem COUNTRIES 
+\tr \tc1 058 \tc2 অখায়া \tc3 \xt পাখো 19:21 \xt* 
+\tr \tc1 059 \tc2 অম্মোন\tc3 \xt ৱায়েন 11:4; ১সমূ 14:47; ইজি 25:5 \xt* 
+\tr \tc1 060 \tc2 অরাবিয়া \tc3 \xt যিশা 21:13; গালা 4:2 \xt* 
+\tr \tc1 061 \tc2 অরারাৎ\tc3 
+\tr \tc1 062 \tc2 এসিয়া\tc3 \xt পাখো 16:6 \xt* 
+\tr \tc1 284 \tc2 আশিরিয়া\tc3 \xt ২নিং 15:19 \xt* 
+\tr \tc1 063 \tc2 আজেরবাইজান\tc3 
+\tr \tc1 064 \tc2 বাবিলোন\tc3 \xt এজ্রা 1:11 \xt* 
+\tr \tc1 065 \tc2 বিথুনিয়া\tc3 \xt ১পিত 1:1 \xt* 
+\tr \tc1 066 \tc2 বুলগেরিয়া\tc3 
+\tr \tc1 067 \tc2 কেনান\tc3 \xt মৈহৌ 10:19; খোঙ 16:35 \xt* 
+\tr \tc1 068 \tc2 কপ্পাদোকিয়া\tc3 \xt পাখো 2:9 \xt* 
+\tr \tc1 069 \tc2 কিলিকিয়া\tc3 \xt পাখো 6:9 \xt* 
+\tr \tc1 070 \tc2 দালমাতিয়া\tc3 \xt ২তীমো 4:10 \xt* 
+\tr \tc1 071 \tc2 ইদোম\tc3 \xt মশীং 20:14; ৱায়েন 11:18; ১সমূ 14:47 \xt* 
+\tr \tc1 072 \tc2 ইজিপ\tc3 \xt মৈহৌ 12:10; ইজি 20:5; পাখো 2:10 \xt* 
+\tr \tc1 073 \tc2 এলাম\tc3 \xt মৈহৌ 14:1; যিশা 21:2 \xt* 
+\tr \tc1 074 \tc2 ঈরিত্রিয়া \tc3 
+\tr \tc1 075 \tc2 ইথিয়োপিয়া\tc3 \xt পাখো 8:27 \xt* 
+\tr \tc1 076 \tc2 গালাতীয়া\tc3 \xt ১পিত 1:1; পাখো 18:23 \xt* 
+\tr \tc1 077 \tc2 জোরযিয়া \tc3 
+\tr \tc1 078 \tc2 গ্রীস\tc3 \xt পাখো 20:2 \xt* 
+\tr \tc1 079 \tc2 ইল্লুরিকম\tc3 \xt রোম 15:19 \xt* 
+\tr \tc1 080 \tc2 ইরান\tc3 
+\tr \tc1 081 \tc2 ইরাক\tc3 
+\tr \tc1 082 \tc2 ইস্রায়েল\tc3 \xt ১নিং 1:35; ১ইতি 7:29; মাত্থি 2:20 \xt* 
+\tr \tc1 083 \tc2 ইতালি\tc3 \xt পাখো 18:2 \xt* 
+\tr \tc1 084 \tc2 যোর্দান\tc3 
+\tr \tc1 085 \tc2 লেবানোন\tc3 
+\tr \tc1 086 \tc2 লিবিয়া\tc3 \xt ইজি 27:10; পাখো 2:10 \xt* 
+\tr \tc1 087 \tc2 লূদ\tc3 \xt যিশা 66:19 \xt* 
+\tr \tc1 088 \tc2 লিদিয়া\tc3 \xt পাখো 16:14 \xt* 
+\tr \tc1 089 \tc2 মেসিদোনিয়া\tc3 \xt পাখো 16:9 \xt* 
+\tr \tc1 090 \tc2 মিদি\tc3 \xt যিশা 21:2 \xt* 
+\tr \tc1 091 \tc2 মিদিয়ান\tc3 \xt খোঙ 2:15; খোঙ 4:19 \xt* 
+\tr \tc1 092 \tc2 মোৱাব\tc3 \xt মশীং 21:13; ৱায়েন 11:18; ১সমূ 14:47 \xt* 
+\tr \tc1 093 \tc2 মুসিয়া\tc3 \xt পাখো 16:7 \xt* 
+\tr \tc1 094 \tc2 পলেষ্টাইন\tc3 
+\tr \tc1 095 \tc2 পাম্ফুলিয়া\tc3 \xt পাখো 13:13 \xt* 
+\tr \tc1 096 \tc2 পারস্য\tc3 \xt এজ্রা 1:1 \xt* 
+\tr \tc1 097 \tc2 পলেষ্টী\tc3 \xt ঈশৈ 60:8; ঈশৈ 108:9 \xt* 
+\tr \tc1 098 \tc2 ফোইনীকীয়া\tc3 \xt পাখো 21:2 \xt* 
+\tr \tc1 099 \tc2 ফ্রুগীয়া\tc3 \xt পাখো 2:10 \xt* 
+\tr \tc1 100 \tc2 পিসিদিয়া\tc3 \xt পাখো 13:14 \xt* 
+\tr \tc1 101 \tc2 পোন্তস\tc3 \xt পাখো 2:9 \xt* 
+\tr \tc1 102 \tc2 রাশিয়া\tc3 
+\tr \tc1 103 \tc2 সমরিয়া\tc3 \xt এজ্রা 4:10; পাখো 1:8 \xt* 
+\tr \tc1 104 \tc2 সাউদি অরাবিয়া\tc3 
+\tr \tc1 105 \tc2 শিনার (সুমের) \tc3 \xt মৈহৌ 14:1 \xt* 
+\tr \tc1 106 \tc2 সুদান\tc3 
+\tr \tc1 107 \tc2 সিরিয়া\tc3 \xt ১নিং 22:3; ইজি 27:16; পাখো 15:41 \xt* 
+\tr \tc1 108 \tc2 থ্রাকীয়া\tc3 
+\tr \tc1 109 \tc2 টর্কি\tc3 
+\tr \tc1 110 \tc2 য়েমেন\tc3 
+\m 
+\v 9 
+\rem CITIES 
+\tr \tc1 111 \tc2 অদ্রামূত্তীয়ম\tc3 \xt পাখো 27:2 \xt* 
+\tr \tc1 112 \tc2 আয়\tc3 \xt যোশূ 7:2; যোশূ 10:1 \xt* 
+\tr \tc1 113 \tc2 আলেকেজন্দ্রিয়া\tc3 \xt পাখো 27:6 \xt* 
+\tr \tc1 114 \tc2 অলূশ\tc3 \xt মশীং 33:13 \xt* 
+\tr \tc1 115 \tc2 অম্ফিপোলিস\tc3 \xt পাখো 17:1 \xt* 
+\tr \tc1 116 \tc2 আন্তিয়োক\tc3 \xt পাখো 15:30 \xt* 
+\tr \tc1 117 \tc2 আপোলোনিয়া\tc3 \xt পাখো 17:1 \xt* 
+\tr \tc1 118 \tc2 আপ্পিয়াগী কৈথেল\tc3 \xt পাখো 28:15 \xt* 
+\tr \tc1 119 \tc2 আরিমাথিয়া\tc3 \xt লূক 23:50 \xt* 
+\tr \tc1 120 \tc2 অরোয়ের\tc3 \xt যোশূ 12:2 \xt* 
+\tr \tc1 121 \tc2 হমাৎ\tc3 \xt ইজি 27:8 \xt* 
+\tr \tc1 122 \tc2 আশদোদ\tc3 \xt যোশূ 11:22; ১সমূ 6:17 \xt* 
+\tr \tc1 123 \tc2 আস্কিলোন\tc3 \xt ৱায়েন 1:18 \xt* 
+\tr \tc1 124 \tc2 আসোস\tc3 \xt পাখো 20:15 \xt* 
+\tr \tc1 125 \tc2 এথেন\tc3 \xt পাখো 17:6 \xt* 
+\tr \tc1 126 \tc2 অত্তালিয়া\tc3 \xt পাখো 14:25 \xt* 
+\tr \tc1 127 \tc2 বাল-জেফোন\tc3 \xt খোঙ 14:2 \xt* 
+\tr \tc1 128 \tc2 বাবেল (বাবিলোন)\tc3 \xt মৈহৌ 10:10; মৈহৌ 11:9 \xt* 
+\tr \tc1 129 \tc2 বাবিলোন\tc3 \xt যিরে 39:9 \xt* 
+\tr \tc1 130 \tc2 বের-শেবা\tc3 \xt মৈহৌ 21:31; ৱায়েন 20:1; ১নিং 4:25; ২নিং 24:1 \xt* 
+\tr \tc1 131 \tc2 বেরীয়া\tc3 \xt পাখো 17:10 \xt* 
+\tr \tc1 132 \tc2 বেথানি\tc3 \xt মাত্থি 21:12 \xt* 
+\tr \tc1 133 \tc2 বেথেল\tc3 \xt মৈহৌ 35:1; যোশূ 7:2; যোশূ 16:1; ১নিং 13:1; ২নিং 17:28 \xt* 
+\tr \tc1 134 \tc2 বেৎলেহেম\tc3 \xt মাত্থি 21:17 \xt* 
+\tr \tc1 135 \tc2 বেৎফাগে\tc3 \xt মাত্থি 21:1 \xt* 
+\tr \tc1 136 \tc2 বেৎসাইদা\tc3 \xt মাত্থি 11:21 \xt* 
+\tr \tc1 137 \tc2 বেজের\tc3 \xt যোশূ 20:8 \xt* 
+\tr \tc1 138 \tc2 বোজ্রা\tc3 \xt আমো 1:12 \xt* 
+\tr \tc1 139 \tc2 কৈসারিয়া \tc3 \xt পাখো 8:40; পাখো 25:4 \xt* 
+\tr \tc1 140 \tc2 কৈসারিয়া ফিলিপ্পী\tc3 \xt মাত্থি 16:13 \xt* 
+\tr \tc1 141 \tc2 কানা\tc3 \xt যোহ 2:1 \xt* 
+\tr \tc1 142 \tc2 কপরনাউম\tc3 \xt মাত্থি 4:13 \xt* 
+\tr \tc1 143 \tc2 কেনখ্রিয়া\tc3 \xt পাখো 18:18 \xt* 
+\tr \tc1 144 \tc2 কোরাজিন\tc3 \xt মাত্থি 11:21 \xt* 
+\tr \tc1 145 \tc2 ক্নীদস\tc3 \xt পাখো 27:7 \xt* 
+\tr \tc1 146 \tc2 কোলোসীয়া\tc3 \xt কোলো 1:2 \xt* 
+\tr \tc1 147 \tc2 কোরিন্থীয়া\tc3 \xt পাখো 18:1 \xt* 
+\tr \tc1 148 \tc2 কুরিনী\tc3 \xt পাখো 2:10 \xt* 
+\tr \tc1 149 \tc2 দমাস্কস\tc3 \xt মৈহৌ 14:15; ২সমূ 8:6; পাখো 9:2 \xt* 
+\tr \tc1 150 \tc2 দান\tc3 \xt ১নিং 4:25 \xt* 
+\tr \tc1 151 \tc2 দান (লায়িশ) \tc3 \xt ৱায়েন 18:29 \xt* 
+\tr \tc1 152 \tc2 দেবীর\tc3 \xt যোশূ 10:3 \xt* 
+\tr \tc1 153 \tc2 দর্বি\tc3 \xt পাখো 14:6 \xt* 
+\tr \tc1 154 \tc2 দিবোন\tc3 \xt যিরে 48:18 \xt* 
+\tr \tc1 155 \tc2 দোফকা\tc3 \xt মশীং 33:12 \xt* 
+\tr \tc1 156 \tc2 ইক্রোন\tc3 \xt যোশূ 13:3 \xt* 
+\tr \tc1 157 \tc2 এলাৎ\tc3 \xt ২নিং 14:22 \xt* 
+\tr \tc1 158 \tc2 এলীম\tc3 \xt খোঙ 15:27 \xt* 
+\tr \tc1 159 \tc2 ইম্মাওস\tc3 \xt লূক 24:13 \xt* 
+\tr \tc1 160 \tc2 এফিসা\tc3 \xt পাখো 18:19 \xt* 
+\tr \tc1 161 \tc2 এথাম\tc3 \xt খোঙ 13:20 \xt* 
+\tr \tc1 162 \tc2 এসিয়োন-গেবের\tc3 \xt মশীং 33:35; ১নিং 9:26 \xt* 
+\tr \tc1 163 \tc2 ফজবা হিথাংফম\tc3 \xt পাখো 27:8 \xt* 
+\tr \tc1 164 \tc2 গাদারা\tc3 \xt মার্ক 5:1 \xt* 
+\tr \tc1 165 \tc2 গাৎ\tc3 \xt মীকা 1:14 \xt* 
+\tr \tc1 166 \tc2 গাজা\tc3 \xt ৱায়েন 1:18; ১সমূ 6:17; পাখো 8:26 \xt* 
+\tr \tc1 167 \tc2 গেবাল\tc3 \xt ঈশৈ 83:7 \xt* 
+\tr \tc1 168 \tc2 গোলান\tc3 \xt যোশূ 20:8 \xt* 
+\tr \tc1 169 \tc2 হমাৎ\tc3 \xt ১নিং 8:65 \xt* 
+\tr \tc1 170 \tc2 হরান\tc3 \xt মৈহৌ 12:4 \xt* 
+\tr \tc1 171 \tc2 হেসেরোৎ\tc3 \xt মশীং 12:16 \xt* 
+\tr \tc1 172 \tc2 হসোর\tc3 \xt যোশূ 11:10; ২নিং 15:29 \xt* 
+\tr \tc1 173 \tc2 হেব্রোন\tc3 \xt মৈহৌ 23:2; ২সমূ 2:1; ২ইতি 11:10 \xt* 
+\tr \tc1 174 \tc2 হিরাপোলি\tc3 \xt কোলো 4:15 \xt* 
+\tr \tc1 175 \tc2 ইকোনিয়া\tc3 \xt পাখো 13:31; 14:19 \xt* 
+\tr \tc1 176 \tc2 যেরীকো\tc3 \xt ২ৱা 34:1; যোশূ 10:1; লূক 10:30 \xt* 
+\tr \tc1 177 \tc2 যেরূশালেম\tc3 \xt যোশূ 10:3; ২ইতি 20:20; পাখো 8:26 \xt* 
+\tr \tc1 178 \tc2 যোপ্পা\tc3 \xt ২ইতি 2:16; পাখো 9:36 \xt* 
+\tr \tc1 179 \tc2 কাদেশ\tc3 \xt মৈহৌ 20:1 \xt* 
+\tr \tc1 180 \tc2 কেদেশ\tc3 \xt যোশূ 21:32 \xt* 
+\tr \tc1 181 \tc2 কাদেশ বর্নেয়া\tc3 \xt যোশূ 15:3; মশীং 32:8 \xt* 
+\tr \tc1 182 \tc2 মোৱাবকী কীর\tc3 \xt যিশা 15:1 \xt* 
+\tr \tc1 183 \tc2 লাকীশ\tc3 \xt যোশূ 10:3 \xt* 
+\tr \tc1 184 \tc2 লাউদিসিয়া\tc3 \xt কোলো 2:1 \xt* 
+\tr \tc1 185 \tc2 লাসিয়া\tc3 \xt পাখো 27:8 \xt* 
+\tr \tc1 186 \tc2 লিস্ত্রা\tc3 \xt পাখো 14:6 \xt* 
+\tr \tc1 187 \tc2 মগদালা \tc3 \xt মাত্থি 15:39 \xt* 
+\tr \tc1 188 \tc2 মারা\tc3 \xt খোঙ 15:23 \xt* 
+\tr \tc1 189 \tc2 মেগিদ্দো\tc3 \xt ৱায়েন 1:27; ১নিং 9:15; ১ইতি 7:29 \xt* 
+\tr \tc1 190 \tc2 মেমফিস\tc3 \xt হোসি 9:6 \xt* 
+\tr \tc1 191 \tc2 মিগদোল\tc3 \xt খোঙ 14:2 \xt* 
+\tr \tc1 192 \tc2 মিলীতা\tc3 \xt পাখো 20:15 \xt* 
+\tr \tc1 193 \tc2 মিতুলীন\tc3 \xt পাখো 20:14 \xt* 
+\tr \tc1 194 \tc2 মোরেশেৎ\tc3 \xt মীকা 1:14 \xt* 
+\tr \tc1 195 \tc2 মিরা\tc3 \xt পাখো 27:5 \xt* 
+\tr \tc1 196 \tc2 নায়িন\tc3 \xt লূক 7:11 \xt* 
+\tr \tc1 197 \tc2 কানা\tc3 \xt মাত্থি 2:23 \xt* 
+\tr \tc1 198 \tc2 নিয়াপোলী\tc3 \xt পাখো 16:11 \xt* 
+\tr \tc1 199 \tc2 নীকোপোলী\tc3 \xt তীত 3:12 \xt* 
+\tr \tc1 200 \tc2 নীনেবে\tc3 \xt মৈহৌ 10:11; যোনা 1:2; নাহূ 1:1 \xt* 
+\tr \tc1 201 \tc2 ওবোৎ\tc3 \xt মশীং 33:43 \xt* 
+\tr \tc1 202 \tc2 পাদ্দান-অরাম\tc3 \xt মৈহৌ 28:2 \xt* 
+\tr \tc1 203 \tc2 পাফোস\tc3 \xt পাখো 13:6 \xt* 
+\tr \tc1 204 \tc2 পাতারা\tc3 \xt পাখো 21:1 \xt* 
+\tr \tc1 205 \tc2 পর্গা\tc3 \xt পাখো 13:13 \xt* 
+\tr \tc1 206 \tc2 পর্গমোস\tc3 \xt ফোং 1:11 \xt* 
+\tr \tc1 207 \tc2 ফোইনীকিয়া\tc3 \xt পাখো 15:3 \xt* 
+\tr \tc1 208 \tc2 ফিলাদেলফিয়া\tc3 \xt ফোং 1:11 \xt* 
+\tr \tc1 209 \tc2 ফিলিপ্পী\tc3 \xt পাখো 16:12 \xt* 
+\tr \tc1 210 \tc2 পী-হাহীরোৎ\tc3 \xt খোঙ 14:2 \xt* 
+\tr \tc1 211 \tc2 পিসিদিয়া অন্টিয়োক\tc3 \xt পাখো 14:24 \xt* 
+\tr \tc1 212 \tc2 পিথোম\tc3 \xt খোঙ 1:11 \xt* 
+\tr \tc1 213 \tc2 তোলেমায়\tc3 \xt পাখো 21:7 \xt* 
+\tr \tc1 214 \tc2 পূনোন\tc3 \xt মশীং 33:43 \xt* 
+\tr \tc1 215 \tc2 পুতিয়োলী\tc3 \xt পাখো 28:13 \xt* 
+\tr \tc1 216 \tc2 রামিসেস\tc3 \xt খোঙ 1:11 \xt* 
+\tr \tc1 217 \tc2 রব্বা\tc3 \xt ইজি 25:5 \xt* 
+\tr \tc1 218 \tc2 রামোৎ-গিলিয়দ\tc3 \xt ১নিং 4:13; ১নিং 22:3 \xt* 
+\tr \tc1 219 \tc2 রেফীদীম\tc3 \xt খোঙ 17:1 \xt* 
+\tr \tc1 220 \tc2 রিজিয়ম\tc3 \xt পাখো 28:13 \xt* 
+\tr \tc1 221 \tc2 রোদা\tc3 \xt পাখো 21:1 \xt* 
+\tr \tc1 222 \tc2 রোম\tc3 \xt পাখো 18:2 \xt* 
+\tr \tc1 223 \tc2 সলামি\tc3 \xt পাখো 13:5 \xt* 
+\tr \tc1 224 \tc2 সালেম\tc3 \xt মৈহৌ 14:18 \xt* 
+\tr \tc1 225 \tc2 সালমোনী\tc3 \xt পাখো 27:7 \xt* 
+\tr \tc1 226 \tc2 সমরিয়া \tc3 \xt ১নিং 16:29 \xt* 
+\tr \tc1 227 \tc2 সার্দিস\tc3 \xt ফোং 1:11 \xt* 
+\tr \tc1 228 \tc2 সেলুকিয়া\tc3 \xt পাখো 13:4 \xt* 
+\tr \tc1 229 \tc2 শেকেম\tc3 \xt মৈহৌ 12:6; ৱায়েন 9:7; ২ইতি 10:1 \xt* 
+\tr \tc1 230 \tc2 যেরীকো\tc3 \xt যোশূ 18:1 \xt* 
+\tr \tc1 231 \tc2 শূশান\tc3 \xt নেহে 1:1 \xt* 
+\tr \tc1 232 \tc2 সীদোন\tc3 \xt মৈহৌ 10:19; ১নিং 17:9; লূক 6:17 \xt* 
+\tr \tc1 233 \tc2 র্স্মনা\tc3 \xt ফোং 1:11 \xt* 
+\tr \tc1 234 \tc2 সুক্কোৎ\tc3 \xt খোঙ 12:37 \xt* 
+\tr \tc1 235 \tc2 সাইকর\tc3 \xt যোহ 4:5 \xt* 
+\tr \tc1 236 \tc2 শেকেম\tc3 \xt পাখো 7:16 \xt* 
+\tr \tc1 237 \tc2 সিরাকুস\tc3 \xt পাখো 28:12 \xt* 
+\tr \tc1 238 \tc2 তার্সস\tc3 \xt পাখো 9:11 \xt* 
+\tr \tc1 239 \tc2 তেকোয়া\tc3 \xt ২ইতি 20:20 \xt* 
+\tr \tc1 240 \tc2 টেমান\tc3 \xt আমো 1:12 \xt* 
+\tr \tc1 241 \tc2 থেসালোনিকীয়া\tc3 \xt পাখো 17:1 \xt* 
+\tr \tc1 242 \tc2 মীথুংশঙ অহুম\tc3 \xt পাখো 28:15 \xt* 
+\tr \tc1 243 \tc2 থিয়াতিরা\tc3 \xt ফোং 1:11 \xt* 
+\tr \tc1 244 \tc2 তিবেরিয়া\tc3 \xt যোহ 6:1 \xt* 
+\tr \tc1 245 \tc2 তিফসা\tc3 \xt ১নিং 4:24 \xt* 
+\tr \tc1 246 \tc2 ত্রোৱা\tc3 \xt পাখো 16:8 \xt* 
+\tr \tc1 247 \tc2 ট্রোগীলিয়ম\tc3 \xt পাখো 20:15 \xt* 
+\tr \tc1 248 \tc2 তূর\tc3 \xt যোশূ 19:29; ইজি 26:15; লূক 6:17 \xt* 
+\tr \tc1 249 \tc2 ঊর\tc3 \xt মৈহৌ 11:28 \xt* 
+\m 
+\v 10 
+\rem REGIONS 
+\tr \tc1 250 \tc2 বাশন\tc3 \xt যোশূ 17:5 \xt* 
+\tr \tc1 251 \tc2 অঙাঙবা সমুদ্র লানফম\tc3 
+\tr \tc1 252 \tc2 দেকাপোলি\tc3 \xt মাত্থি 4:25 \xt* 
+\tr \tc1 253 \tc2 গালীল\tc3 \xt মাত্থি 21:11 \xt* 
+\tr \tc1 254 \tc2 গিলিয়দ\tc3 \xt যোশূ 17:5 \xt* 
+\tr \tc1 255 \tc2 যিহূদা\tc3 \xt ২সমূ 5:5; মাত্থি 2:6 \xt* 
+\tr \tc1 256 \tc2 যুদিয়া\tc3 \xt মার্ক 1:5; মার্ক 3:7 \xt* 
+\tr \tc1 257 \tc2 নিংথৌগী অচৌবা লম্বী\tc3 \xt মশীং 20:17 \xt* 
+\tr \tc1 258 \tc2 গোশেনগী লম\tc3 \xt মৈহৌ 45:10 \xt* 
+\tr \tc1 259 \tc2 নেগেব\tc3 \xt মৈহৌ 13:1 \xt* 
+\tr \tc1 260 \tc2 শূর চৎপগী লম্বী\tc3 \xt মৈহৌ 16:7 \xt* 
+\tr \tc1 261 \tc2 পলেষ্টী লৈবাক্কী লম্বী\tc3 \xt খোঙ 13:17 \xt* 
+\tr \tc1 262 \tc2 পারানগী লমহাঙ\tc3 \xt মশীং 10:12 \xt* 
+\tr \tc1 263 \tc2 শূরগী লমহাঙ\tc3 \xt খোঙ 15:22 \xt* 
+\tr \tc1 264 \tc2 সীনগী লমহাঙ\tc3 \xt খোঙ 16:1 \xt* 
+\tr \tc1 265 \tc2 সিনগী লমহাঙ\tc3 \xt মশীং 33:36 \xt* 
+\m 
+\v 11 
+\rem WATER 
+\tr \tc1 266 \tc2 অমুবা সমুদ্র\tc3 
+\tr \tc1 267 \tc2 কীদ্রোনগী খোং\tc3 \xt যোহ 18:1 \xt* 
+\tr \tc1 268 \tc2 অশিবা পাৎ\tc3 
+\tr \tc1 269 \tc2 মিডিটর্যানিয়ান সমুদ্র\tc3 
+\tr \tc1 270 \tc2 অঙাঙবা সমুদ্র\tc3 \xt খোঙ 10:19; যিরে 49:21; হিব্রু 11:29 \xt* 
+\tr \tc1 271 \tc2 আর্নোন খোং\tc3 \xt মশীং 21:14; যোশূ 12:2 \xt* 
+\tr \tc1 272 \tc2 ইউফ্রেটিস তুরেল\tc3 \xt মৈহৌ 2:14; ২সমূ 8:3; যিরে 46:6 \xt* 
+\tr \tc1 273 \tc2 যাব্বোক তুরেন\tc3 \xt ২ৱা 3:16 \xt* 
+\tr \tc1 274 \tc2 যোর্দান তুরেল\tc3 \xt যোশূ 12:1; মাত্থি 3:6 \xt* 
+\tr \tc1 275 \tc2 নিল তুরেল\tc3 \xt মৈহৌ 41:1 \xt* 
+\tr \tc1 276 \tc2 টাইগ্রিস তুরেল\tc3 
+\tr \tc1 277 \tc2 টাইগ্রিস তুরেল (হিদ্দেকেল) \tc3 \xt মৈহৌ 2:14 \xt* 
+\tr \tc1 278 \tc2 থুমহীগী পাৎ\tc3 \xt যোশূ 15:2; যোশূ 18:19 \xt* 
+\tr \tc1 279 \tc2 কিন্নেরেৎকী পাৎ\tc3 \xt যোশূ 13:27 \xt* 
+\tr \tc1 280 \tc2 গালীলগী পাৎ \tc3 \xt মাত্থি 15:29 \xt* 
+\tr \tc1 281 \tc2 অচৌবা সমুদ্র\tc3 \xt যোশূ 23:4 \xt* 
+\tr \tc1 282 \tc2 পারস্য সমুদ্র\tc3 
